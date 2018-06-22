@@ -1,5 +1,5 @@
 # Summary
 
 * [Introduction](README.md)
-  * java基础
+  * [java基础](javaji-chu.md)
 
